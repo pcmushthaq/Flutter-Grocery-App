@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "436626010036",
+    "firebase_url": "https://grocerydelivery-f772f.firebaseio.com",
+    "project_id": "grocerydelivery-f772f",
+    "storage_bucket": "grocerydelivery-f772f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436626010036:android:e887d4eb78948cb346cce1",
+        "android_client_info": {
+          "package_name": "com.sahil.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436626010036-m1p5c9gcmk96r6t6j97rr3s7q4qkkptt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtY8v9xFRfzqEwFSiGIxl4MBmqNJrofo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436626010036-m1p5c9gcmk96r6t6j97rr3s7q4qkkptt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436626010036:android:efd1b8b1b3d660d946cce1",
+        "android_client_info": {
+          "package_name": "com.sahil.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436626010036-m1p5c9gcmk96r6t6j97rr3s7q4qkkptt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtY8v9xFRfzqEwFSiGIxl4MBmqNJrofo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436626010036-m1p5c9gcmk96r6t6j97rr3s7q4qkkptt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
